@@ -1,0 +1,5 @@
+log/*
+*.dump
+ebin/*
+deps/*
+boss.config
